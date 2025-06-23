@@ -23,19 +23,19 @@ const Header = () => {
               href="#about"
               className="text-gray-700 hover:text-purple-600 transition-colors"
             >
-              О себе
+              Обо мне
+            </a>
+            <a
+              href="#services"
+              className="text-gray-700 hover:text-purple-600 transition-colors"
+            >
+              Услуги
             </a>
             <a
               href="#portfolio"
               className="text-gray-700 hover:text-purple-600 transition-colors"
             >
               Портфолио
-            </a>
-            <a
-              href="#skills"
-              className="text-gray-700 hover:text-purple-600 transition-colors"
-            >
-              Навыки
             </a>
             <a
               href="#contact"
@@ -65,19 +65,19 @@ const Header = () => {
               href="#about"
               className="block text-gray-700 hover:text-purple-600"
             >
-              О себе
+              Обо мне
+            </a>
+            <a
+              href="#services"
+              className="block text-gray-700 hover:text-purple-600"
+            >
+              Услуги
             </a>
             <a
               href="#portfolio"
               className="block text-gray-700 hover:text-purple-600"
             >
               Портфолио
-            </a>
-            <a
-              href="#skills"
-              className="block text-gray-700 hover:text-purple-600"
-            >
-              Навыки
             </a>
             <a
               href="#contact"
